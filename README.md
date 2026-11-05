@@ -33,3 +33,9 @@ My earlier internships were a chance to explore different fields: data analysis,
 | IT and identity | Active Directory, MFA, ServiceNow |
 | Data and research | Python, Excel, QGIS, NetCDF |
 | Engineering design | Fusion 360, SolidWorks, NASA FoilSim III |
+
+## Links
+
+- [Portfolio](https://by-tayo.vercel.app)
+- [GitHub](https://github.com/by-tayo)
+- [LinkedIn](https://www.linkedin.com/in/tania--ortiz/)
